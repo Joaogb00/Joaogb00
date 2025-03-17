@@ -2,7 +2,7 @@
 
 Este é um projeto desenvolvido em **HTML, CSS, JavaScript e Python**.
 
-# 👋 Olá! Eu sou João Gabriel Pinto Matozinhos
+# 👋 Olá! Eu sou João Gabriel
 
 ## 📌 Sobre Mim
 - 🔹 **Idade:** 15 anos
