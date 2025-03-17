@@ -1,16 +1,24 @@
-## Hi there 👋
+# Projeto
 
-<!--
-**Joaogb00/Joaogb00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este é um projeto desenvolvido em **HTML, CSS, JavaScript e Python**.
 
-Here are some ideas to get you started:
+# 👋 Olá! Eu sou João Gabriel Pinto Matozinhos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Sobre Mim
+- 🔹 **Idade:** 15 anos
+- 📍 **Localização:** Sabará, Minas Gerais
+- 🎓 **Estudante:** Técnico do Augustus (HTML, CSS e JavaScript)
+- 💻 **Tecnologias:** Python, HTML, CSS e um pouco de JavaScript
+- 🛠️ **Editor Favorito:** VS Code
+- 🚀 **Interesses:** Desenvolvimento Web, Programação e Tecnologia
+
+## 📈 Estatísticas do GitHub
+![João Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
+
+## 📫 Contato
+Caso queira trocar uma ideia, entre em contato comigo!
+
+📧 [E-mail](mailto:joaogabrielpmatozinhos@gmail.com)
+
+---
+✨ Sempre aprendendo e evoluindo! 🚀
