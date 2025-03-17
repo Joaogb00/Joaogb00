@@ -13,7 +13,7 @@ Este é um projeto desenvolvido em **HTML, CSS, JavaScript e Python**.
 - 🚀 **Interesses:** Desenvolvimento Web, Programação e Tecnologia
 
 ## 📈 Estatísticas do GitHub
-![João Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
+![João Gabriel's GitHub stats](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md)
 
 ## 📫 Contato
 Caso queira trocar uma ideia, entre em contato comigo!
