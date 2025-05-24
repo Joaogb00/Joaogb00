@@ -5,7 +5,7 @@ Este é um projeto desenvolvido em **HTML, CSS, JavaScript e Python**.
 # 👋 Olá! Eu sou João Gabriel
 
 ## 📌 Sobre Mim
-- 🔹 **Idade:** 15 anos
+- 🔹 **Idade:** 16 anos
 - 📍 **Localização:** Sabará, Minas Gerais
 - 🎓 **Estudante:** Técnico do Augustus (HTML, CSS e JavaScript)
 - 💻 **Tecnologias:** Python, HTML, CSS e um pouco de JavaScript
